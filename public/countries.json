@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Spain",
+    "population": 46507760,
+    "flagURL": "http://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+    "gdp": 31942
+  },
+
+  {
+    "name": "America",
+    "population": 2566777576,
+    "flagURL": "http://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+    "gdp": 53001
+  },
+  {
+    "name": "India",
+    "population": 9796892348586,
+    "flagURL": "http://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "gdp": 5450
+  }
+]
